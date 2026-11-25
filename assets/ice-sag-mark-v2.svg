@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="White original wire, mint adjusted wire, vertical measurement arrow">
+  <rect x="16" y="16" width="96" height="96" rx="20" fill="#0B2234"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M28 39V85 M100 39V85" stroke="#56E4BF" stroke-width="5"/>
+    <path d="M28 39Q64 63 100 39" stroke="#F4FBFF" stroke-width="5"/>
+    <path d="M28 39Q64 119 100 39" stroke="#56E4BF" stroke-width="5.5"/>
+    <path d="M64 57V73 M59 62L64 57L69 62 M59 68L64 73L69 68" stroke="#F4FBFF" stroke-width="3.5"/>
+  </g>
+</svg>
