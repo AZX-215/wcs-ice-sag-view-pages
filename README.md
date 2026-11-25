@@ -1,4 +1,4 @@
-# Ice Sag View for Katapult
+# Ice Sag View
 
 Public homepage, support instructions and privacy policy for the independent Chrome extension. No extension source or customer job data is included.
 
